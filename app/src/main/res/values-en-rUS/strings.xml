@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="idioma">English (US)</string>
+    <string name="descricao">My name is Marcelo Sousa, I live in EUA, and i am an Android Developer</string>
+</resources>
