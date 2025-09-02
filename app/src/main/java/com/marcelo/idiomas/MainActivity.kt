@@ -180,7 +180,7 @@ fun Home() {
 
             Text(
                 text = stringResource(R.string.idioma),
-                fontSize = 40.sp,
+                fontSize = 34.sp,
                 color = Gray900,
                 fontWeight = FontWeight.Bold
             )
