@@ -44,8 +44,8 @@ jobs:
           name: app-release
           path: app/build/outputs/bundle/release/
 
-      - name: Cache Gradle
-        uses: action/cache@v3
-        with:
-          path: ~/.gradle/caches
-          key: gradle-${{ runner.os}}-${{ hashFiles('**/*.gradle')}}
+#      - name: Cache Gradle
+#        uses: action/cache@v3
+#        with:
+#          path: ~/.gradle/caches
+#          key: gradle-${{ runner.os}}-${{ hashFiles('**/*.gradle')}}
